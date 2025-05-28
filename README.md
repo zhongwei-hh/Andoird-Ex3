@@ -250,8 +250,9 @@ fig.tight_layout()
 
 ```
 
+![image](https://github.com/user-attachments/assets/da1cc822-9498-4218-a63a-7dafca43f63b)
 
-![image](https://github.com/user-attachments/assets/ed7185b7-1454-4831-949e-6a37e56558f9)
+
 
 
 可见，不同公司之间的收入和利润差距惊人，那么到底前10%和后10%的公司谁的波动更大了？此外，还有很多有价值的信息值得进一步挖掘。
@@ -277,4 +278,5 @@ ax.legend()
 
 需要复用同一个 `ax`（坐标轴）并调用 `plot()` 两次，分别传入利润和收入数据。
 
-![image](https://github.com/user-attachments/assets/477feb3a-f993-4d5e-a815-2a39ef5962d3)
+![image](https://github.com/user-attachments/assets/5b0c3d1f-7a1e-47e7-b7e4-ec1ab25f575e)
+
